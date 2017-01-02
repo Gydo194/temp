@@ -1,0 +1,19 @@
+th, td, table {
+border: 1px solid black;
+}
+tr, td {
+height: 10px;
+vertical-align: center;
+}
+iframe {
+height: 5vh;
+}
+
+#body {
+position: relative;
+top: 0px;
+}
+table {
+width: 90%;
+height: 40vh;
+}
